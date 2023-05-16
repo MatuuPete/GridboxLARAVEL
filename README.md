@@ -1,2 +1,2 @@
 # GridboxLARAVEL
- Gridbox is a pet shelter app for lost pets system
+ Gridbox is a Laravel framework about pet shelter for lost pets system and for them to find a new home
